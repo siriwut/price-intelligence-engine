@@ -26,3 +26,5 @@ sqlparse==0.3.0
 Twisted==19.7.0
 w3lib==1.21.0
 zope.interface==4.6.0
+psycopg2
+
